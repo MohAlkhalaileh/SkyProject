@@ -1,0 +1,123 @@
+
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+
+.nav-icon{
+  color: aliceblue;
+  padding: 10px;
+}
+
+.prof-img{
+  max-width: 60px;
+  border-radius: 50%;
+}
+
+.titles{
+  font-weight: bold;
+  margin: 0;
+}
+
+.sub-titles{
+  font-weight: 400;
+  font-size: small;
+  color: rgb(0 0 0/50%);
+}
+
+
+
+
+
+.sec-icon{
+  color: #a09f9f;
+}
+
+
+.button-sec{
+  margin-left: 12rem;
+}
+
+.sec-larg-div{
+  background-color: #f6f6f6;
+  border-radius: 20px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 20px ;
+}
+
+.sec-small-div{
+  border-radius: 20px;
+  box-shadow: 1px 1px 20px ;
+}
+
+.small-div-element{
+  color: #f6f6f6;
+  margin: auto;
+}
+
+.div-num{
+  font-size: 5rem;
+}
+
+.small-div-text{
+  font-size: larger;
+}
+
+
+.img-slider{
+  max-height: 350px;
+  object-fit: cover;
+}
+
+.carousel-caption{
+  background-color:#f6f6f6d1 ;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imgc{
+  border-radius: 50%;
+  max-width: 120px;
+}
+
+#myInput {
+  background-image: url('/images/searchicon.png');
+  background-size: 18px;
+  background-position: 10px 13px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+
+.cards-search-div{
+  background-color:rgb(246 246 246);
+  border-radius: 20px;
+  box-shadow: 2px 2px 20px ;
+}
+
+.req-sec {
+  font-size: larger;
+  font-weight: 600;
+  color: green;
+
+}
+
+.view-more{
+  text-align: right;
+  font-weight: 600;
+}
+
+
+.separeter{
+margin-top: 12px;
+border-top: 3px solid rgb(124, 124, 124);
+}
+
+.output{
+  font-weight: 700;
+}
